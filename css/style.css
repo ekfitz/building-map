@@ -61,9 +61,6 @@ body {
   border-radius: 0.5em;
 }
 
-
-
-
 .buildingAd {
   position: absolute;
   width: 30%;
@@ -72,7 +69,7 @@ body {
   background-color: #6A8D92;
   font-size: 3em;
   color: white;
-  border-radius: 0.5em;
+  border-radius: 0.25em;
 }
 
 .buildingAm {
@@ -86,7 +83,6 @@ body {
   border-radius: 0.25em;
 }
 
-
 .buildingBd {
   position: absolute;
   width: 30%;
@@ -96,7 +92,7 @@ body {
   background-color: #6A8D92;
   font-size: 3em;
   color: white;
-  border-radius: 0.5em;
+  border-radius: 0.25em;
 }
 
 .buildingBm {
@@ -120,7 +116,7 @@ body {
   background-color: #445A5D;
   font-size: 3em;
   color: white;
-  border-radius: 0.35em;
+  border-radius: 0.25em;
 }
 
 .buildingC3m {
@@ -137,5 +133,8 @@ body {
 
 .office {
   position: absolute;
+  width: 12.5%;
+  height: 12%;
+  border-radius: 0.075em;
   background-color: yellow;
 }
