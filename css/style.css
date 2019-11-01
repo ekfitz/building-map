@@ -9,53 +9,130 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.gui {
+.guid {
   position: absolute;
-  width: 100%;
-  height: 90vh;
+  width: 60%;
+  height: 80vh;
+  top: 10vh;
   background-color: #252525;
-
 }
 
-.thirdfloor {
+.guim {
   position: absolute;
+  width: 97%;
+  height: 70vh;
+  top: 15vh;
+  background-color: #252525;
 }
 
-.courtyard {
+.thirdfloord {
   position: absolute;
+  width: 70%;
+  height: 90%;
+  top: 7.5vh;
+  left: 15%;
+}
+
+.thirdfloorm {
+  position: absolute;
+  width: 95%;
+  height: 80%;
+  top: 7.5vh;
+  left: 3%;
+}
+
+.courtyardd {
+  position: absolute;
+  width: 60%;
+  height: 75%;
+  top: 5.5vh;
+  left: 8%;
   background-color: #413C58;
   border-radius: 0.5em;
 }
 
-.avstudio3 {
+.courtyardm {
   position: absolute;
-  border-bottom-left-radius: 0.25em;
-  border-bottom-right-radius: 0.25em;
-  background-color: #445A5D;
-  font-size: 3em;
-  color: white;
+  width: 80%;
+  height: 75%;
+  top: 8vh;
+  left: 10%;
+  background-color: #413C58;
+  border-radius: 0.5em;
 }
 
 
-.buildingA {
+
+
+.buildingAd {
   position: absolute;
+  width: 30%;
+  height: 40%;
+  top: 2.5%;
   background-color: #6A8D92;
   font-size: 3em;
   color: white;
+  border-radius: 0.5em;
 }
 
-.buildingB {
+.buildingAm {
   position: absolute;
+  width: 45%;
+  height: 45%;
+  top: 0%;
   background-color: #6A8D92;
   font-size: 3em;
   color: white;
+  border-radius: 0.25em;
 }
 
-.buildingC3 {
+
+.buildingBd {
   position: absolute;
+  width: 30%;
+  height: 40%;
+  top: 50%;
+  left: 5%;
+  background-color: #6A8D92;
+  font-size: 3em;
+  color: white;
+  border-radius: 0.5em;
+}
+
+.buildingBm {
+  position: absolute;
+  width: 45%;
+  height: 45%;
+  top: 50%;
+  left: 5%;
+  background-color: #6A8D92;
+  font-size: 3em;
+  color: white;
+  border-radius: 0.25em;
+}
+
+.buildingC3d {
+  position: absolute;
+  width: 30%;
+  height: 63%;
+  top: 12%;
+  left: 47%;
   background-color: #445A5D;
   font-size: 3em;
   color: white;
+  border-radius: 0.35em;
+}
+
+.buildingC3m {
+  position: absolute;
+  width: 45%;
+  height: 75%;
+  top: 5%;
+  left: 55%;
+  background-color: #445A5D;
+  font-size: 3em;
+  color: white;
+  border-radius: 0.25em;
 }
 
 .office {
